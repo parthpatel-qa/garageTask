@@ -45,6 +45,13 @@ public class Car extends Vehicle{
 		this.price = price;
 	}
 	
+	@Override
+	public void motorFees() {
+		System.out.println("The total fees for this vehicles is: " + this.price);
+	}
+	
+	
+
 	
 	
 	

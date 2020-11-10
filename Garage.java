@@ -2,7 +2,7 @@ package com.qa.community.garagetask;
 
 import java.util.ArrayList;
 
-public abstract class Garage {
+public class Garage {
 	
 	//Attributes
 	
